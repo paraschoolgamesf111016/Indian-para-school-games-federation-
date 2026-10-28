@@ -1,0 +1,69 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Indian Para School Games Federation</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f3f6fa;color:#222}
+header{background:#073b75;color:white;text-align:center;padding:28px 15px}
+header h1{margin:0;font-size:27px}
+header p{margin-bottom:0}
+nav{background:#ff9d00;text-align:center;padding:12px}
+nav a{color:#111;text-decoration:none;margin:8px;font-weight:bold}
+.hero{padding:45px 20px;text-align:center;background:white}
+.hero h2{color:#073b75;font-size:28px}
+.btn{display:inline-block;background:#073b75;color:white;padding:13px 22px;text-decoration:none;border-radius:5px;margin-top:12px}
+section{padding:25px 20px;max-width:950px;margin:auto}
+.card{background:white;padding:20px;margin:15px 0;border-radius:9px;box-shadow:0 2px 8px #ddd}
+footer{background:#073b75;color:white;text-align:center;padding:20px}
+</style>
+</head>
+<body>
+<header>
+<h1>INDIAN PARA SCHOOL GAMES FEDERATION</h1>
+<p>Inclusive Sports • Equal Opportunities • Empowering Every Child</p>
+</header>
+<nav>
+<a href="#about">About Us</a>
+<a href="#sports">Sports</a>
+<a href="#inclusion">Inclusion</a>
+<a href="#contact">Contact</a>
+</nav>
+<div class="hero">
+<h2>Every Child Deserves the Chance to Play</h2>
+<p>Promoting inclusive school sports and sporting opportunities for children with disabilities across India.</p>
+<a class="btn" href="#about">Explore Our Mission</a>
+</div>
+<section id="about">
+<div class="card">
+<h2>About the Federation</h2>
+<p>The Indian Para School Games Federation aims to promote accessible, inclusive and safe sporting opportunities for school children with disabilities. Our vision is to encourage participation, talent development, teamwork and equal opportunities through sports.</p>
+</div>
+</section>
+<section id="sports">
+<div class="card">
+<h2>Sports & Activities</h2>
+<p>Para Athletics • Para Swimming • Boccia • Wheelchair Sports • Inclusive School Games</p>
+<p>Events and disciplines will be introduced according to athlete needs, available facilities and applicable sporting rules.</p>
+</div>
+</section>
+<section id="inclusion">
+<div class="card">
+<h2>Our Commitment to Inclusion</h2>
+<p>We support accessibility, child safeguarding, dignity, non-discrimination, fair participation and respect for the rights of children with disabilities.</p>
+</div>
+</section>
+<section id="contact">
+<div class="card">
+<h2>Contact Us</h2>
+<p>Indian Para School Games Federation</p>
+<p>Email: Add your official email address here</p>
+<p>Address: Add your registered office address here</p>
+</div>
+</section>
+<footer>
+<p>© 2026 Indian Para School Games Federation</p>
+<p>Inclusive Sports for Every Child</p>
+</footer>
+</body>
+</html>
